@@ -15,8 +15,8 @@ Incorrect answer: difficulty level decreases
 Personalized Assessment:
 
 Each learner experiences a unique question path tailored to their performance.
-Performance Tracking:
 
+Performance Tracking:
 The platform records assessment results and generates insights to highlight strengths and areas for improvement.
 
 Purpose
