@@ -13,11 +13,10 @@ Correct answer: difficulty level increases,
 Incorrect answer: difficulty level decreases
 
 Personalized Assessment:
-
 Each learner experiences a unique question path tailored to their performance.
 
 Performance Tracking:
 The platform records assessment results and generates insights to highlight strengths and areas for improvement.
 
-Purpose
+Purpose:
 This project demonstrates the application of adaptive algorithms and intelligent assessment techniques in modern digital learning systems, improving the efficiency and accuracy of student evaluation.
