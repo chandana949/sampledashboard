@@ -8,8 +8,8 @@ Key Features
 Adaptive Questioning:
 The system selects questions from a structured question bank categorized by difficulty levels.
 Dynamic Difficulty Adjustment:
-Correct answer → difficulty level increases
-Incorrect answer → difficulty level decreases
+Correct answer: difficulty level increases,
+Incorrect answer: difficulty level decreases
 Personalized Assessment:
 Each learner experiences a unique question path tailored to their performance.
 Performance Tracking:
