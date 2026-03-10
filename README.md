@@ -1,101 +1,19 @@
-# Student Test Performance Dashboard
+AI-Driven Adaptive Assessment System
 
-A comprehensive web-based dashboard application designed to visualize and track student test performance metrics, built with modern web technologies.
+The AI-Driven Adaptive Assessment System is an intelligent evaluation platform that personalizes online assessments by dynamically adjusting question difficulty based on student performance.
+Unlike traditional testing systems where all users receive the same set of questions, this platform adapts in real time, enabling a more accurate evaluation of each learner’s knowledge level.
 
-## 🎯 Features
+Key Features
 
-- **Performance Analytics**: Track and visualize student test scores over time
-- **Interactive Dashboard**: Real-time data visualization with intuitive charts and graphs
-- **Progress Monitoring**: Monitor individual and class-wide performance trends
-- **Responsive Design**: Fully responsive interface that works seamlessly across devices
-- **Data Insights**: Generate meaningful insights from test performance data
+Adaptive Questioning:
+The system selects questions from a structured question bank categorized by difficulty levels.
+Dynamic Difficulty Adjustment:
+Correct answer → difficulty level increases
+Incorrect answer → difficulty level decreases
+Personalized Assessment:
+Each learner experiences a unique question path tailored to their performance.
+Performance Tracking:
+The platform records assessment results and generates insights to highlight strengths and areas for improvement.
 
-## 🛠️ Tech Stack
-
-- **Frontend Framework**: React with TypeScript
-- **Build Tool**: Vite (for fast development and optimized production builds)
-- **Styling**: CSS3 with modern responsive design principles
-- **Type Safety**: TypeScript for enhanced code quality and developer experience
-
-## 📋 Prerequisites
-
-Before running this project, make sure you have the following installed:
-
-- Node.js (v14 or higher)
-- npm (Node Package Manager)
-
-## 🚀 Getting Started
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/chandana949/sampledashboard.git
-cd sampledashboard
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-### Running the Application
-
-Start the development server:
-```bash
-npm run dev
-```
-
-The application will be available at `http://localhost:5173` (or another port if 5173 is occupied).
-
-### Building for Production
-
-Create an optimized production build:
-```bash
-npm run build
-```
-
-The build files will be generated in the `dist` directory.
-
-## 📁 Project Structure
-
-```
-sampledashboard/
-├── src/                  # Source files
-│   ├── components/      # React components
-│   ├── styles/          # CSS stylesheets
-│   └── utils/           # Utility functions
-├── public/              # Static assets
-├── index.html           # HTML entry point
-├── package.json         # Project dependencies
-├── vite.config.ts       # Vite configuration
-└── README.md           # Project documentation
-```
-
-## 💡 Usage
-
-1. **View Dashboard**: Access the main dashboard to see overview of all student performance metrics
-2. **Analyze Trends**: Use interactive charts to identify performance patterns and trends
-3. **Track Progress**: Monitor individual student progress over multiple test cycles
-4. **Generate Reports**: Export performance data for detailed analysis
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is open source and available under the MIT License.
-
-## 👤 Author
-
-**Chandana Reddy Singireddy**
-
-- GitHub: [@chandana949](https://github.com/chandana949)
-- LinkedIn: [Chandana Reddy Singireddy](https://linkedin.com/in/chandana-reddy-singireddy-40566933b)
-
-## 🙏 Acknowledgments
-
-- Built with React and Vite for optimal performance
-- Designed with accessibility and user experience in mind
-- Inspired by the need for better educational performance tracking tools
+Purpose
+This project demonstrates the application of adaptive algorithms and intelligent assessment techniques in modern digital learning systems, improving the efficiency and accuracy of student evaluation.
